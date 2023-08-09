@@ -23,7 +23,12 @@ I also have done my HSC in 2020.
 I've started my BSc. in Computer Science and Engineering in 2022 I was admitted on 4th january but our academic class began on 20th march.
 Added bugichigi
 <<<<<<< HEAD
+<<<<<<< HEAD
 I'll try for break the faang.
 =======
 Now I'm aimed to have a full-stack Web-development job.
 >>>>>>> be0f49caff0ad961190af944a7930d96384383da
+=======
+Now I'm aimed to have a full-stack Web-development job.
+Hello this is last commit.
+>>>>>>> feature3
