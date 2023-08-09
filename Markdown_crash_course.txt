@@ -20,6 +20,10 @@ Added extra data for experiment
 
 I've done my SSC in 2018.
 I also have done my HSC in 2020.
-I've started my BSc. in Computer Science and Engineering in 2022.
+I've started my BSc. in Computer Science and Engineering in 2022 I was admitted on 4th january but our academic class began on 20th march.
 Added bugichigi
+<<<<<<< HEAD
 I'll try for break the faang.
+=======
+Now I'm aimed to have a full-stack Web-development job.
+>>>>>>> be0f49caff0ad961190af944a7930d96384383da
