@@ -15,3 +15,7 @@
 14. Image
 15. Emoji
 16. Table
+
+Added extra data for experiment
+
+I've done my SSC in 2018.
